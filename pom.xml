@@ -61,7 +61,7 @@
 						</exclude>
 					</excludes>
 					<image>
-						<name>ngagne0303/${project.artifactId}:${project.version}</name>
+						<name>msgassama/${project.artifactId}:${project.version}</name>
 					</image>
 					<docker>
 						<publishRegistry>
